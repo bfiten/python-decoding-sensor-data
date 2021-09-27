@@ -1,5 +1,5 @@
 
-class Houseinfo():
+class HouseInfo():
     def __init__(self, data):
         data = self.data
 
