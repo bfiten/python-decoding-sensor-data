@@ -75,3 +75,7 @@ venv38/
 
 # Datasets
 datasets/
+
+# Other
+.spyproject
+.spyproject\config
